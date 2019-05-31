@@ -1,4 +1,4 @@
-7. Please read Eric Raymond's article Smart Questions How to ask the question The Smart Way .
+(7) Please read Eric Raymond's article Smart Questions How to ask the question The Smart Way .
 Do you have more suggestions for How To Answer Questions in a Helpful Way (from your past experience)
 List at least two:
 
@@ -23,7 +23,7 @@ List at least two:
    focus less on hackers and more on users who are answering in general.
    
    
-8. Write a short paragraph ( 8 to 10 sentences) of what you got out of reading that chapter.
+(8) Write a short paragraph ( 8 to 10 sentences) of what you got out of reading that chapter.
 
    The problem lies with whoever put copyrighted music onto the RPI network. Or, the copyright itself dealing with music on
    private network. That depends on whether it addresses copyrighted music on network. That aside, this is my stance on both
@@ -44,4 +44,24 @@ List at least two:
    In my opinion, neither are in the wrong.
    
    
+(13) ![Tree](pictures/Tree.png)
+
+(15) ![Problem 1](pictures/RegexOne1.png)
+![Problem 2](pictures/RegexOne2.png)
+![Problem 3](pictures/RegexOne3.png)
+![Problem 4](pictures/RegexOne4.png)
+![Problem 5](pictures/RegexOne5.png)
+![Problem 6](pictures/RegexOne6.png)
+![Problem 8](pictures/RegexOne8.png)
+
+(16) ![Problem 1](pictures/RegexCrossword1.png)
+![Problem 2](pictures/RegexCrossword2.png)
+![Problem 3](pictures/RegexCrossword3.png)
+![Problem 4](pictures/RegexCrossword4.png)
+![Problem 5](pictures/RegexCrossword5.png)
+
+(18) ![Blocky](pictures/Blocky.png)
+   
+(19) Reflection: 
+   I am looking at 
 
