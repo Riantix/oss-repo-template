@@ -63,5 +63,4 @@ List at least two:
 (18) ![Blocky](pictures/Blocky.png)
    
 (19) Reflection: 
-   I am looking at 
-
+   I think Cybernetics Core from RCOS would be interesting to look at, but it's decidedly sparse. GEM-UNIVERSE from RCOS also seems interesting. I am interested in seeing more open source programs outside of RCOS but many seem extremely complicated to get to know. Ultimately though, I am interested in projects revolving around games. One idea in the back of my head is an adaptive rpg based on user feedback that will modify difficulty in various ways. For instance, if the enemies kill the player too quickly, either enemy damage or player health can be modified. Elements and resistances, more abilities, or minigames can be considered. The project will have to be extremely large relative to the game user plays for it to have "unlimited" options.
