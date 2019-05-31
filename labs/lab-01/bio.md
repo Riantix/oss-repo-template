@@ -3,4 +3,4 @@
 ### github account: Riantix
 ### slack handle: Chang Ju Kim
 ### mattermost handle: changju
-![Chang Ju Kim](BallroomProfPic1.jpg)
+![Chang Ju Kim](pictures/BallroomProfPic1.jpg)
